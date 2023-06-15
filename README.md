@@ -1,0 +1,2 @@
+# FISICA
+CÓDIGOS DESARROLLADOS EN JSCRIPT PARA EL ÁREA DE FISICA CURSO ADSO 2023. Version 2. Energía cinética y Energía Potencial
